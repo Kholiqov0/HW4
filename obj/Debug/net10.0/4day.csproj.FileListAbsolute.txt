@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\4day\bin\Debug\net10.0\4day.exe
+C:\Users\user\Desktop\4day\bin\Debug\net10.0\4day.deps.json
+C:\Users\user\Desktop\4day\bin\Debug\net10.0\4day.runtimeconfig.json
+C:\Users\user\Desktop\4day\bin\Debug\net10.0\4day.dll
+C:\Users\user\Desktop\4day\bin\Debug\net10.0\4day.pdb
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\4day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\4day.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\4day.AssemblyInfo.cs
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\4day.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\4day.dll
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\refint\4day.dll
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\4day.pdb
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\4day.genruntimeconfig.cache
+C:\Users\user\Desktop\4day\obj\Debug\net10.0\ref\4day.dll
